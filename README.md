@@ -1,7 +1,7 @@
 # MorningNews
 
 ## Overview
-MorningNews is a project developed by Alexandru Panta[^1^][1]. This repository is dedicated to providing users with the latest news updates every morning.
+MorningNews is a project. This repository is dedicated to providing users with the latest news updates every morning.
 
 ## Features
 - Daily news updates
